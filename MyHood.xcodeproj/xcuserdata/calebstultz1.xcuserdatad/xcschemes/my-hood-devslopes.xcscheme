@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FC438E1D1C88AA350004CCF8"
-               BuildableName = "my-hood-devslopes.app"
-               BlueprintName = "my-hood-devslopes"
-               ReferencedContainer = "container:my-hood-devslopes.xcodeproj">
+               BuildableName = "MyHood.app"
+               BlueprintName = "MyHood"
+               ReferencedContainer = "container:MyHood.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,9 +34,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC438E1D1C88AA350004CCF8"
-            BuildableName = "my-hood-devslopes.app"
-            BlueprintName = "my-hood-devslopes"
-            ReferencedContainer = "container:my-hood-devslopes.xcodeproj">
+            BuildableName = "MyHood.app"
+            BlueprintName = "MyHood"
+            ReferencedContainer = "container:MyHood.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC438E1D1C88AA350004CCF8"
-            BuildableName = "my-hood-devslopes.app"
-            BlueprintName = "my-hood-devslopes"
-            ReferencedContainer = "container:my-hood-devslopes.xcodeproj">
+            BuildableName = "MyHood.app"
+            BlueprintName = "MyHood"
+            ReferencedContainer = "container:MyHood.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC438E1D1C88AA350004CCF8"
-            BuildableName = "my-hood-devslopes.app"
-            BlueprintName = "my-hood-devslopes"
-            ReferencedContainer = "container:my-hood-devslopes.xcodeproj">
+            BuildableName = "MyHood.app"
+            BlueprintName = "MyHood"
+            ReferencedContainer = "container:MyHood.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

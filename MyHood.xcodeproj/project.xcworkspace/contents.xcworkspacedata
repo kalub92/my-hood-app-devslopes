@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:my-hood-devslopes.xcodeproj">
+      location = "self:/Users/calebstultz1/Desktop/iOS Development/my-hood-devslopes/MyHood.xcodeproj">
    </FileRef>
 </Workspace>
